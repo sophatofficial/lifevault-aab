@@ -1,0 +1,6 @@
+{
+  "name": "LifeVault",
+  "description": "Secure offline-first personal knowledge hub, digital vault, markdown notes, document scanner, passwords, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
