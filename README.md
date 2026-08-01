@@ -1,7 +1,3 @@
-Securely store, organize, and share your most important life information.
-
-LifeVault – Secure What Matters
-
 LifeVault is your personal digital vault for storing and protecting life's most important information. Keep essential documents, passwords, emergency contacts, financial details, and legacy information in one secure place, accessible whenever you need it.
 Whether you're organizing personal records, preparing for emergencies, or planning for the future, LifeVault helps you keep everything safe and easy to manage.
 
